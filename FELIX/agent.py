@@ -24,7 +24,7 @@ from tools import (
     submit_transfer,
 )
 
-os.environ["GOOGLE_API_KEY"]            = "AIzaSyA6Cn1A76Qmd0OeLEQjgMfW3XUl5CqY3BA"
+os.environ["GOOGLE_API_KEY"]            = "ENTER API KEY"
 os.environ["GOOGLE_GENAI_USE_VERTEXAI"] = "0"
 
 logging.getLogger("google.adk").setLevel(logging.ERROR)
