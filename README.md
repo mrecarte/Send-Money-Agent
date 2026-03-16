@@ -53,3 +53,10 @@ python test_agent.py
 ```
 
 Expected output: `25 passed | 0 failed | 25 total`
+
+
+
+
+
+------------------------------------------------------------
+To Enter your own API key, please paste it in FELIX/agent.py on line 27. 
